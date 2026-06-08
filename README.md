@@ -108,13 +108,3 @@ A sample of public work — CI/CD pipelines and node/validator tooling I can sho
 
 </details>
 
----
-
-### GitHub activity
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=alexeymoskalev-devops&show_icons=true&hide_border=true&theme=tokyonight&count_private=true">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexeymoskalev-devops&layout=compact&hide_border=true&theme=tokyonight">
-</p>
-
-<!-- Stats rendered by github-readme-stats (third-party). Remove this block to drop the external dependency. -->
