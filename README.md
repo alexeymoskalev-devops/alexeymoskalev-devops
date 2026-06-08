@@ -91,6 +91,7 @@ and infrastructure you can reason about.
 
 ### Open-source & side projects
 
+
 A sample of public work — CI/CD pipelines and node/validator tooling I can show end-to-end:
 
 - [`drmed_ai`](https://github.com/alexeymoskalev-devops/drmed_ai) — full GitHub Actions CI/CD: `lint → typecheck → build` + semver-tagged Docker releases to GHCR
