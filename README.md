@@ -108,3 +108,5 @@ A sample of public work — CI/CD pipelines and node/validator tooling I can sho
 
 </details>
 
+
+<!-- profile render nudge -->
