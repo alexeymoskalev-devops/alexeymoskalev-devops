@@ -30,7 +30,7 @@ and infrastructure you can reason about.
 
 ---
 
-### What I've done (with numbers)
+### What I've done
 
 **Infrastructure & operations**
 - Operate **60+ production servers** across GCP (managed Kubernetes — **GKE**) and bare-metal in three European DCs (Hetzner, Vultr, OVH); migrated a large share of workloads from bare-metal into GKE.
